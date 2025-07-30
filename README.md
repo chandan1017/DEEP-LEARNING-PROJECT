@@ -19,5 +19,9 @@ As part of my internship at CodTech, I completed Task 2: Deep Learning – Image
 
 #OUTPUT
 
+<img width="970" height="966" alt="Image" src="https://github.com/user-attachments/assets/dfc607a2-79a1-4c49-9e22-f3cc8c5cab22" />
+
+<img width="953" height="935" alt="Image" src="https://github.com/user-attachments/assets/01f7ba48-647d-4288-859e-7043c16565bf" />
+
 
 
